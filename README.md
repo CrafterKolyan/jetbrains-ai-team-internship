@@ -6,5 +6,5 @@ Assignment: [Template](Assignment.ipynb)
 ## Task description
 Predict `score` field by `text` and `parent_text` fields.
 
-Train/Test Split: in template
+Train/Test Split: in template  
 Metric: Mean Squared Error
